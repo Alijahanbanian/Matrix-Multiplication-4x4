@@ -10,3 +10,4 @@ The purpose of this project is to compare the performance of matrix multiplicati
 - **C++**: Matrix multiplication implemented in C++.
 - **AVX**: Matrix multiplication implemented using AVX instructions for vectorization.
 
+![project](https://github.com/Alijahanbanian/Matrix-Multiplication-4x4/assets/112167941/150865cc-2369-49db-90e4-192336245cd2)
